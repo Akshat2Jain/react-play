@@ -1,4 +1,4 @@
-# CryotoApp
+# CryptoApp
 
 It is a Cryptocurrency Tracker app that shows Trending coins with their current market value.
 
